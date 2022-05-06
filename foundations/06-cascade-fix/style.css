@@ -3,12 +3,18 @@
   color: hsl(0, 100%, 50%);
 }
 
-.small-para {
-  font-size: 14px;
+p.small-para {
+  font-size: 20px;
 }
 
 .para {
-  font-size: 22px;
+  font-size: 30px;
+}
+
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
 }
 
 .confirm {
@@ -17,12 +23,13 @@
   font-weight: bold;
 } 
 
-.button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
-  font-size: 20px;
+#confirm-button {
+  border-color: white;
 }
 
+#cancel-button {
+  border-color: white;
+}
 .child {
   color: red;
   font-size: 14px;
@@ -30,5 +37,10 @@
 
 div.text {
   color: green;
+  font-size: 30px;
+}
+
+div .child {
+  color: red;
   font-size: 22px;
 }
