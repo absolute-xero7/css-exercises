@@ -1,0 +1,28 @@
+p {
+    color: black;
+    background-color: lightcoral;
+}
+
+.big-boi {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+}
+
+.smol-boi {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+#blue-boi {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 55px;
+    color: blue;
+}
+
+#green-boi {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+    color: black;
+    background-color: greenyellow;
+    font-weight: 600;
+}
