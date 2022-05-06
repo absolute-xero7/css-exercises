@@ -1,0 +1,16 @@
+.black-boi, .yellow-boi {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 45px;
+}
+
+.black-boi {
+    color: white;
+    background-color: black;
+    border-color: white;
+}
+
+.yellow-boi {
+    color: black;
+    background-color: yellow;
+    border-color: lightgrey;
+}
